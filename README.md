@@ -54,8 +54,8 @@ It intentionally favors safety and demo data so you can test offline and avoid n
 
 1. **Clone**
 ```bash
-git clone https://github.com/<your-username>/osint-reconsuite-v3.git
-cd osint-reconsuite-v3
+git clone https://github.com/Dx-27/OSINT-Recon.git
+cd OSINT-Recon
 ```
 
 2. **Create & activate virtual environment**
